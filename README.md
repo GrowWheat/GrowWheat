@@ -1,4 +1,4 @@
- <h1 align="center"> <a href=""> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);XiaoMai祝您今天愉快!&center=true&size=27"> </a> </h1>
+ <h1 align="center"> <a href=""> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome to my page!&center=true&size=27"> </a> </h1>
 
 <div align="center" text-align: center; letter-spacing: 3px;">
   <!-- 前端技术栈 -->
