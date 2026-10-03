@@ -1,4 +1,4 @@
- <h1 align="center"> <a href=""> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi, I'm XiaoMai;Welcome to my page!&center=true&size=27"> </a> </h1>
+ <h1 align="center"> <a href=""> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to my page!&center=true&size=27"> </a> </h1>
 
 <div align="center" text-align: center; letter-spacing: 3px;">
   <!-- 前端技术栈 -->
